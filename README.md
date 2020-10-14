@@ -12,7 +12,7 @@
 - MySQL
 - How to master the coding interview
 
-### Soon I will be
+#### Soon I will be
 - Working as a project manager for 2nd year engineering students' course projects
 
 #### 👯 I’m looking to collaborate on
