@@ -3,11 +3,18 @@
 #### 🔭 I’m currently working on
 - TuringTrader - A collaborative stock trading app for beginner traders (C++)
 - Engineering Final Year Capstone Project - ECG Diagnosis using Machine Learning (MATLAB)
+- A clean and simple platform for developers to track bugs and issues (MERN stack)
 - My portfolio website
 
 #### 🌱 I’m currently learning
-- C++ application development
+- C++ application development in an Agile team
+- The fundamentals of computer vision using OpenCV and Python (University course)
+- MySQL
 - How to master the coding interview
+
+### Soon I will be
+- Working as a project manager for 2nd year engineering students' course projects
+
 #### 👯 I’m looking to collaborate on
 - A full stack web application that allows Rubik's Cube enthusiasts to speedcube in a multiplayer environment or platform
 
