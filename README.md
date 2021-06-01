@@ -1,3 +1,10 @@
+- 👋 Hi, I'm @HaarisJ! 
+- 🔭 I’m interested in Full Stack Development
+- 🌱 I’m currently learning about cybersecurity and DevOps
+- 👯 I’m looking to collaborate on open source projects and/or other personal projects
+
+
+<!-- OLD (fifth year)
 ### Hi there! 👋
 
 #### 🔭 I’m currently working on
@@ -30,6 +37,8 @@
 
 #### ⚡ Fun fact:
 - The fastest I ever speedsolved a Rubik's cube was in 8.53 seconds on June 26, 2020. 
+-->
+
 
 <!--
 **HaarisJ/HaarisJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
