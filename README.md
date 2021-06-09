@@ -1,6 +1,6 @@
 - 👋 Hi, I'm @HaarisJ! 
 - 🔭 I’m interested in Full Stack Development
-- 🌱 I’m currently learning about cybersecurity and DevOps
+- 🌱 I’m currently learning about networking and DevOps
 - 👯 I’m looking to collaborate on open source projects and/or other personal projects
 
 
